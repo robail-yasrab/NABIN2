@@ -8,7 +8,7 @@ This script orchestrates the complete pipeline:
 3. Evaluation and visualization
 4. Bottleneck gene identification and analysis
 
-Author: AI Assistant
+Author: Robail Yasrab
 Date: 2025
 """
 

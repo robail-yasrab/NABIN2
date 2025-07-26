@@ -1,0 +1,22 @@
+🧬 Multi-Omic Pathway Analysis Project
+=====================================
+
+Project Owner: robail-yasrab
+Created: 2025
+Framework: PyTorch + Transformers
+
+This is a test file to verify GitHub connection.
+
+✅ If you can see this file in your GitHub repository, 
+   the connection is working perfectly!
+
+🚀 Ready to push the complete multi-omic analysis framework!
+
+Key Features:
+- Transformer-based multi-modal data integration
+- CNA, mutations, mRNA, and clinical data fusion  
+- Metabolic pathway bottleneck identification
+- Advanced visualization and reporting tools
+- Comprehensive example pipeline
+
+Next: Push the entire project using your IDE's GitHub integration! 

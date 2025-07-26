@@ -1,0 +1,40 @@
+{
+  "data_generation": {
+    "n_samples": 1000,
+    "n_genes": 1000,
+    "n_pathways": 12,
+    "seed": 42
+  },
+  "data_loader": {
+    "batch_size": 32,
+    "test_size": 0.2,
+    "val_size": 0.1,
+    "use_temporal": false
+  },
+  "model": {
+    "hidden_dim": 256,
+    "n_heads": 8,
+    "n_layers": 4,
+    "dropout": 0.1,
+    "use_temporal": false
+  },
+  "training": {
+    "epochs": 100,
+    "learning_rate": 1e-4,
+    "weight_decay": 1e-5,
+    "bottleneck_weight": 0.3,
+    "early_stopping_patience": 15,
+    "use_focal_loss": true
+  },
+  "analysis": {
+    "top_k_bottlenecks": 50,
+    "correlation_threshold": 0.3,
+    "pathway_analysis": true
+  },
+  "output": {
+    "save_dir": "results",
+    "save_plots": true,
+    "save_models": true,
+    "save_analysis": true
+  }
+} 

@@ -11,7 +11,7 @@ This script demonstrates the full pipeline:
 6. Perform pathway analysis
 7. Generate comprehensive reports
 
-Author: AI Assistant
+Author: Robail Yasrab
 Date: 2025
 """
 
